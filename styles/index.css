@@ -1,3 +1,13 @@
+:root {
+    --color-first: #FF5C00;
+    --color-second: black;
+    --color-third: #FFFFFF;
+    --color-black-first: #000000;
+    --color-black-second: #3A4042;
+    --color-black-third: #828282;
+    
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -40,7 +50,7 @@ a::before {
 }
 
 #button:hover {
-   box-shadow: 5px 5px 0 var(--color-first);
-   background-color: #FFF;
-   color: var(--color-first-black);
+    box-shadow: 5px 5px 0 var(--color-first);
+    background-color: #FFF;
+    color: var(--color-black-first);
 }
