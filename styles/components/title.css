@@ -1,6 +1,6 @@
-h1 {
-    color: var(--color-first);
+.title {
+    color: #FF5C00;
     font-family: 'Press Start 2P', sans-serif;
     font-size: 40px;
-    text-shadow: 4px 4px 0 var(--color-black-first);
+    text-shadow: 4px 4px 0 #000;
 }
