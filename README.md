@@ -1,2 +1,2 @@
 # curso_HTML_CSS_Feliz
-Curso com o básico de HTML e CSS ministrado pelo Marco Bruno
+Course with the basics of HTML and CSS taught by Marco Bruno, where a portfolio was built
