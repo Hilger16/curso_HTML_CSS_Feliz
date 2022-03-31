@@ -1,0 +1,17 @@
+.progress-bar {
+    box-sizing: border-box;
+    width: 320px;
+    height: 40px;
+    border: 5px solid black;
+    position: relative;
+    background: white;
+  }
+  
+  .progress-bar .fill-bar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    padding: 1px;
+    background: #00B3B2;
+  }
