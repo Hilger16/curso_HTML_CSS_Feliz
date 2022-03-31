@@ -1,0 +1,12 @@
+.wrapper-project {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1152px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.wrapper-project .project-card {
+    width: 280px;
+    align-items: center;
+}

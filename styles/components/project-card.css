@@ -1,0 +1,19 @@
+.project-card {
+    box-shadow: 10px 10px 0px #FFFFFF;
+    margin-right: 100px;
+}
+
+.project-card.img {
+    width: 280px;
+    justify-content: center;
+}
+
+.project-card.-card1 {
+    background-color: #00B3B2;
+}
+.project-card.-card2 {
+    background-color: #4C5B84;
+}
+.project-card.-card3 {
+    background-color: #00B3B2;
+}
