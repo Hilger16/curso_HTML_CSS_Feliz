@@ -13,5 +13,10 @@
     background-color: #000;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #FF5C00;
+    border-color: #FF5C00;
+}
+
+.main-section.-sobre {
+    background-color: #00B3B2;
+    border-color: #000;
 }
