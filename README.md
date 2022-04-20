@@ -1,4 +1,4 @@
-# Portfólio em Pixel Art
+# Portfólio in Pixel Art
 
 <h2>About development</h2>
 <p> Project developed in order to train skills in websites development</p>
