@@ -6,8 +6,8 @@
 <h3>Tecnology  used in development</h3>
 <ul>
     <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
 </ul>
 
 <hr>
